@@ -1,5 +1,5 @@
 # Docker-php-helloworld
-  Simple Php Dockerfile 
+  Simple Php Dockerfile, more information in my  <a href="https://zaknuggets.3utilities.com/blog/introduction-a-docker/">Blog.</a>
   
 
 # Instructions
